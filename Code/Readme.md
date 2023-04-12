@@ -1,1 +1,1 @@
-## Arduino IDE Code for ATMEGA328P COntroller
+## Arduino IDE Code for ATMEGA328P Controller
